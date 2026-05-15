@@ -1,58 +1,75 @@
 # Dignity Centre Management System
 
-## 📌 Overview
-This project was developed to solve real challenges faced at the Dignity Centre in Cyprus, where refugee data was previously managed using paper-based systems. The system introduces a digital solution to improve efficiency, organization, and service delivery. This project was inspired by real challenges I observed while supporting activities at the Dignity Centre in Cyprus.This project was developed as part of my personal initiative while studying Computer Information Systems in European University Cyprus.
+# Project Overview
+
+The Dignity Centre Management System is a C++ console-based application designed to manage client records efficiently. The system helps staff organize and maintain information through registration, searching, updating, and deleting records using a simple menu-driven interface.
 
 ---
 
-## 🎯 Purpose
-- Digitize client registration  
-- Improve data organization  
-- Enable faster search and retrieval  
-- Reduce paper-based processes  
+# Problem Statement
+
+Managing client information manually can lead to data loss, inefficiency, and difficulty tracking records. This project provides a digital management system that simplifies storing, searching, updating, and deleting client information.
 
 ---
 
-## ⚙️ Features
-- Add new client  
-- Search by name or phone  
-- Save and load data from file  
-- Menu-based interface  
+# Features
+
+- Client registration
+- Search records
+- Update existing records
+- Delete records
+- File storage system
+- Menu-driven interface
+- Data management using file handling
 
 ---
 
-## 📸 Screenshots
-![Menu](menu.png.png)  
-![add Client](add.png.png)  
-![search](search.png.png)  
+# Technologies Used
+
+- C++
+- Object-Oriented Programming (OOP)
+- File Handling (ifstream/ofstream)
+- Vectors
+- Classes and Structured Data
 
 ---
 
-## 🛠️ Technologies Used
-- C++  
-- Object-Oriented Programming  
-- File Handling  
+# Screenshots
+
+# Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+# Registration Page
+![Registration](screenshots/registration.png)
+
+# Search Feature
+![Search](screenshots/search.png)
+
+# Update/Delete Feature
+![Update Delete](screenshots/update-delete.png)
 
 ---
 
-## ▶️ How to Compile and Run
+# Future Improvements
 
-Compile:
-g++ main.cpp Person.cpp System.cpp -o app  
-
-Run:
-./app  
+- Convert system into a web-based platform
+- Add secure authentication and login system
+- Improve scalability using database integration
+- Implement appointment scheduling
+- Improve accessibility and user experience
 
 ---
 
-## 🚀 Future Improvements
-- Web-based system  
-- Database integration  
-- Improved UI  
+# How to Run the Project
 
-## 👤 Author
-Gbla Salieu – Computer Information System student passionate about using technology to solve real-world problems in humanitarian contexts.
+1. Open the project in a C++ IDE such as Code::Blocks or Visual Studio.
+2. Compile the source code.
+3. Run the program.
+4. Use the menu options to manage records.
+
 ---
 
-## 🌍 Impact
-This project demonstrates how simple software solutions can improve service delivery for vulnerable communities.
+# Author
+
+Developed by 30GblaSalieu
+
