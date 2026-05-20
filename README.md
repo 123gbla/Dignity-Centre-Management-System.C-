@@ -55,4 +55,4 @@ Gbla Salieu – Computer Information System student passionate about using techn
 ---
 
 ## 🌍 Impact
-This project demonstrates how simple software solutions can improve service delivery for vulnerable communities.
+This project demonstrates how simple software solutions can improve service delivery for vulnerable communities..
